@@ -1,4 +1,4 @@
-title:            The .Net morning meeting
+title:            The .Net weekly meeting
 description:      Fresh news about .Net technologies.
 disqus_shortname: 
 reading_time:     true
@@ -11,7 +11,7 @@ url: https://jtourvieille.github.io
 owner:
   name:           Jounad Tourvieille
   avatar:         20141230193127-work.jpg
-  bio:            "Curious developper, fan of .Net ecosystem "
+  bio:            "Curious developper, fan of .Net ecosystem."
   email:          jtourvieille@gmail.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
