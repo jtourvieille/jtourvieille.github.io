@@ -1,5 +1,13 @@
-source "https://rubygems.org"
+source 'https://rubygems.org'
 
-gem 'octopress'
-gem 'jekyll-paginate'
-gem 'neo-hpstr-jekyll-theme'
+gem 'jekyll'
+
+group :jekyll_plugins do
+  gem 'jekyll-gist'
+  gem 'jekyll-paginate'
+  gem "jekyll-asciidoc"
+end
+
+gem 'asciidoctor', '~> 1.5.4'
+gem 'coderay', '1.1.1'
+
