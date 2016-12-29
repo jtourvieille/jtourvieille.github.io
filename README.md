@@ -1,67 +1,27 @@
-[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=Phlow&url=https://github.com/Phlow/feeling-responsive&title=Support%20Feeling%20Responsive%20Jekyll%20Theme&language=en_GB&tags=github,jekyll,theme,webdesign&category=software)
+# HPSTR Jekyll Theme
 
+They say three times the charm, so here is another free responsive Jekyll theme for you. I've learned a ton since open sourcing [my first two themes](https://mademistakes.com/work/jekyll-themes/), and wanted to try a few new things this time around. If you've used my previous themes most of this should be familiar territory.
 
-# Newsletter: Stay in Touch for Future Updates
+**Compatible with Jekyll 3.0 and up.**
 
-If you are a webdesigner interested in Jekyll, the static website generator, this little newsletter is for you. I share tutorials, clever code snippets and information about my own Jekyll Themes called [*Feeling Responsive*][7] and [*Simplicity*][8]. Please don't expect weekly emails :)
+## What HPSTR brings to the table:
 
-[![Subscribe to Jekyll Newsletter](https://phlow.github.io/static/tinyletter_subscribe_button.png)](https://tinyletter.com/feeling-responsive)
+* Modern and minimal design.
+* Responsive templates for post, page, and post index `_layouts`. Looks great on mobile, tablet, and desktop devices.
+* Gracefully degrades in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.  
+* Sweet animated menu with support for drop-downs.
+* Optional [Disqus](http://disqus.com) comments and social sharing links.
+* [Open Graph](https://developers.facebook.com/docs/opengraph/) and [Twitter Cards](https://dev.twitter.com/docs/cards) support for a better social sharing experience.
+* Simple [custom 404 page](http://mmistakes.github.io/hpstr-jekyll-theme/404.html) to get you started.
+* [Syntax highlighting](http://mmistakes.github.io/hpstr-jekyll-theme/code-highlighting-post/) stylesheet to make your code examples look snazzy
+* [Available in Spanish](https://github.com/cruznick/hpstr-jekyll-theme/tree/es). Thanks [@cruznick](https://github.com/cruznick)!
 
+![HPSTR Theme Preview screenshot](http://mmistakes.github.io/hpstr-jekyll-theme/images/hpstr-jekyll-theme-preview.jpg)
 
-[![Start Video](https://github.com/Phlow/feeling-responsive/blob/gh-pages/images/video-feeling-responsive-1280x720.jpg)](https://www.youtube.com/embed/3b5zCFSmVvU)
+---
 
-## A Responsive Jekyll Theme: *Feeling Responsive*
+## Getting Started
 
-Do you want to get to know *Feeling Responsive*? Than check it out first and have a look on its home at  <http://phlow.github.io/feeling-responsive/>.
+HPSTR takes advantage of SCSS and data files to make customizing easier. This theme requires Jekyll 3.x and will not work with older versions properly.
 
-To get to know *Feeling Responsive* check out all the features explained in the [documentation][1].
-
-And what license is *Feeling Responsive* released under? [This one][2].
-
-
-
-## Why use this theme?
-
-Feeling Responsive is heavily customizable.
-
-1. Language-Support :)
-2. Optimized for speed and it's responsive.
-3. Built on Foundation Framework.
-4. Six different Headers.
-5. Customizable navigation, footer,...
-
-**[More ›][3]**
-
-
-
-## Changelog
-
-*Feeling Responsive* is in active development. Thank you to everyone who contributed, especially [Róbert Papp][5], [Alexandra von Criegern](https://github.com/plutonik-a) and [Juan Jose Amor Iglesias](https://github.com/jjamor).
-
-**[Read Changelog ›][6]**
-
-
-
-## Video Tutorial
-
-Click the image to [watch the YouTube-Video-Tutorial][4].
-
-[![Start Video](https://github.com/Phlow/feeling-responsive/blob/gh-pages/images/video-feeling-responsive-tutorial-frontpage.jpg)](https://www.youtube.com/watch?v=rLS-BEvlEyY)
-
-
-
-
-
-
-
-
- [1]: http://phlow.github.io/feeling-responsive/documentation/
- [2]: https://github.com/Phlow/feeling-responsive/blob/gh-pages/LICENSE
- [3]: http://phlow.github.io/feeling-responsive/info/
- [4]: https://www.youtube.com/watch?v=rLS-BEvlEyY
- [5]: https://github.com/TWiStErRob
- [6]: https://phlow.github.io/feeling-responsive/changelog/
- [7]: http://phlow.github.io/feeling-responsive/
- [8]: http://phlow.github.io/simplicity/
- [9]: #
- [10]: #
+To learn how to install and use this theme check out the [Setup Guide](https://mmistakes.github.io/hpstr-jekyll-theme/theme-setup/) for more information.
