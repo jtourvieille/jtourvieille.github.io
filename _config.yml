@@ -3,27 +3,27 @@
 #highlighter: pygments
 markdown: kramdown
 highlighter: rouge
-paginate: 5
+paginate: 10
 language: 'en-uk'
 
 # Website info
-name: 'Finding The Way Home'
-description: "A beautiful narrative written with the world's most elegant publishing platform. The story begins here."
+name: 'The .Net morning meeting'
+description: "Find in here fresh news about .Net technologies."
 
 # Author's info
-author: 'Casper McFadden'
+author: 'Jounad Tourvieille'
 # edit 'categories' in the front matter of every post to match this username
-nickname: casper
-bio: 'A paranormal expert and his daughter bunk in an abandoned house populated by 3 mischievous ghosts and one friendly one.'
-location: 'Maine, USA'
-url: 'http://biomadeira.github.io/jasper/'
-image: 'assets/images/casper.png'
+nickname: jounad
+bio: 'A passionate .Net developper.'
+location: 'France'
+url: 'http://jtourvieille.github.io/'
+image: 'assets/images/logo-vs.png'
 
-short_url: 'biomadeira.github.io/jasper/'
-google_analytics: UA-69281367-1
-disqus: username
+short_url: 'http://jtourvieille.github.io/'
+#google_analytics: UA-69281367-1
+#disqus: username
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /jasper/
+baseurl: /
 
 # Permalinks
 permalink: /:title
@@ -56,13 +56,13 @@ exclude: [vendor]
 # or "master" otherwise
 safe: false
 lsi: false
-username: biomadeira
-repo: jasper
+username: jtourvieille
+#repo: jasper
 branch: master
 relative_source: ../jasper/
 destination: ../jasper-pages/
-production_url:  https://biomadeira.github.io/jasper/
-source_url:      https://github.com/biomadeira/jasper/
+production_url:  https://jtourvieille.github.io/
+source_url:      https://github.com/jtourvieille/
 
 exclude:
   - README.md
