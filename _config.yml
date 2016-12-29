@@ -59,8 +59,8 @@ lsi: false
 username: jtourvieille
 #repo: jasper
 branch: source
-relative_source: ../jasper/
-destination: ../jasper-pages/
+relative_source: ../
+destination: ../
 production_url:  https://jtourvieille.github.io/
 source_url:      https://github.com/jtourvieille/
 
