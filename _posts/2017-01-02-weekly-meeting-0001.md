@@ -2,7 +2,7 @@
 layout: post
 title: Weekly meeting #1
 description: "Weekly meeting #1"
-date: 2016-01-02 08:30:00 +0100
+date: 2017-01-02 08:30:00 +0100
 tags: [retry, library, polly, F#, neural network, cloud, azure, design pattern, C#, dotnet]
 ---
 
@@ -13,7 +13,7 @@ tags: [retry, library, polly, F#, neural network, cloud, azure, design pattern, 
 * <a href="https://weblog.west-wind.com/posts/2016/Dec/27/Back-to-Basics-String-Interpolation-in-C">Back to Basics: String Interpolation in C#</a> by Rick Strahl
 * <a href="https://ayende.com/blog/176482/searching-shouldnt-be-so-hard">Searching shouldn’t be so hard</a> by Ayende Rahien
 
-## Libraries
+## Library
 
 * <a href="https://alastaircrabtree.com/implementing-the-retry-pattern-using-polly/">Implementing the retry pattern using polly</a> by Alastair
 
