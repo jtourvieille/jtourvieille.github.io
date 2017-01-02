@@ -2,7 +2,7 @@
 layout: post
 title: Weekly meeting #1
 description: "Weekly meeting #1"
-date: 2017-01-02 08:30:00 +0100
+date: 2017-01-02 0:30:000
 tags: [retry, library, polly, F#, neural network, cloud, azure, design pattern, C#, dotnet]
 ---
 
