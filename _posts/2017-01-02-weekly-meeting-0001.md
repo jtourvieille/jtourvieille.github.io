@@ -17,6 +17,6 @@ tags: [retry, library, polly, F#, neural network, cloud, azure, design pattern, 
 
 * <a href="https://alastaircrabtree.com/implementing-the-retry-pattern-using-polly/">Implementing the retry pattern using polly</a> by Alastair
 
-## Comunity
+## Community
 
 * <a href="https://blogs.msdn.microsoft.com/dotnet/2016/12/13/the-year-in-net-visual-studio-2017-rc-and-net-core-updated-on-net-with-stephen-cleary-and-luis-valencia-ulterius-inferno-bastion-logeek-night/">The Year in .NET</a> from MSDN
