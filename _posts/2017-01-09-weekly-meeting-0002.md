@@ -2,7 +2,7 @@
 layout: post
 title: "Weekly meeting #2"
 description: "Weekly meeting #2"
-date: 2017-01-09 07:30:000
+date: 2017-01-04 07:30:000
 tags: [C#, exceptions, types, architecture, docker, string, regular expression, metiatr, library]
 ---
 
