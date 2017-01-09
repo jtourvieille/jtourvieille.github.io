@@ -21,5 +21,6 @@ tags: [C#, exceptions, types, architecture, docker, string, regular expression, 
 
 ## French
 
+
 * [Les sites de rencontres Meetic et Attractive World sanctionnés par la CNIL](http://www.lemonde.fr/pixels/article/2017/01/02/les-sites-de-rencontres-meetic-et-attractive-world-sanctionnes-par-la-cnil_5056494_4408996.html) par Vincent Fagot
 * [DevOps - Une recette à base de culture (70%) et d'outils (30%)](http://www.zdnet.fr/actualites/devops-une-recette-a-base-de-culture-70-et-d-outils-30-39846576.htm) par Christophe Auffray
