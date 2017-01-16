@@ -2,7 +2,7 @@
 layout: post
 title: "Weekly meeting #3"
 description: "Weekly meeting #3"
-date: 2017-01-16 07:30:000
+date: 2017-01-16 07:30:00
 tags: [C#, I/O, Exception, IoT, Windows 10, Raspberry, microservices, identity, humanizer, library, iPhone]
 ---
 
