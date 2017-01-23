@@ -21,4 +21,4 @@ tags: [Azure, Azure-functions, documentdb, .Net, Interview, CES 2017, SOLID, des
 ## Video
 
 * [This Week on Windows: New Devices at CES, Midseason TV Guide, and more!](https://channel9.msdn.com/Shows/This-Week-On-Windows/This-Week-on-Windows-New-Devices-at-CES-Midseason-TV-Guide-and-more) on Channel 9
-* [SOLID Design Patterns](https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/SOLID-Design-Patterns) on Channel 9
+* [SOLID Design Patterns](https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/SOLID-Design-Patterns) on Channel 9 
