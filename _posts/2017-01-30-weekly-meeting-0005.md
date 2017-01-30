@@ -7,7 +7,7 @@ tags: [Asp.net, web api, Mediator, MediatR, C#, Date, Culture]
 ---
 
 ## Reading
-
+ 
 * [Getting Down to Business Building an ASP.NET Core API Service](http://www.codemag.com/Article/1701061) by Rick Strahl
 * [Mediator between Integration Boundaries](http://codeopinion.com/mediator-between-integration-boundaries/) by Derek Comartin
 * [How to pass parameters to a view component](http://andrewlock.net/passing-variables-to-a-view-component/) by Andrew Lock
