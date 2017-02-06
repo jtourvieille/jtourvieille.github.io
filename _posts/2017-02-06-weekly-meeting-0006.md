@@ -4,7 +4,7 @@ title: "Weekly meeting #6"
 description: "Weekly meeting #6"
 date: 2017-02-06 07:30:000
 tags: [ReactiveUI, Thread, UWP, delegate, IoC, dependency injection, ASP.NET Core, Autofac, microservice]
----
+--- 
 
 ## Reading
  
