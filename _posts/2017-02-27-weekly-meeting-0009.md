@@ -14,10 +14,6 @@ tags: [benchmark, C#, dotnet, performance, performance counter, API, documentati
 * [Creating a new performance counter on Windows with C# .NET](https://dotnetcodr.com/2017/02/23/creating-a-new-performance-counter-on-windows-with-c-net-2/) by Steve Smith
 * [Understanding your middleware pipeline with the Middleware Analysis package](https://andrewlock.net/understanding-your-middleware-pipeline-with-the-middleware-analysis-package/) by Andrew Lock
 
-## Library
-
-* [BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet)
-
 ## French
 
 * [Facebook VS Snapchat, combien rapporte un utilisateur?](http://www.frenchweb.fr/numbers-facebook-vs-snapchat-combien-rapporte-un-utilisateur/279593) by Myriam Roche
