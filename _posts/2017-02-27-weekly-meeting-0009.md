@@ -5,7 +5,7 @@ description: "Weekly meeting #9"
 date: 2017-02-27 07:30:000
 tags: [benchmark, C#, dotnet, performance, performance counter, API, documentation, xamarin, git, facebook, snapchat, asp.net]
 --- 
-
+ 
 ## Reading
  
 * [Xamarin .NET Workbooks - Interactive Computing is a stellar learning tool](https://www.hanselman.com/blog/XamarinNETWorkbooksInteractiveComputingIsAStellarLearningTool.aspx) by Scott Hanselman
