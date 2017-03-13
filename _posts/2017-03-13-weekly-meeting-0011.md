@@ -3,7 +3,7 @@ layout: post
 title: "Weekly meeting #11"
 description: "Weekly meeting #11"
 date: 2017-03-13 07:30:000
-tags: []
+tags: [ASP.Net Core, protobuf, testing, xunit, visual studio, angular js, react, javascript]
 --- 
  
 ## Reading
