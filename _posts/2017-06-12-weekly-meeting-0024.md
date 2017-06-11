@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Weekly meeting #23"
-description: "Weekly meeting #23"
-date: 2017-06-05 07:30:000
+title: "Weekly meeting #24"
+description: "Weekly meeting #24"
+date: 2017-06-12 07:30:000
 tags: [Azure Functions, Asp.Net, C#, Carrer, Performance, Logging, Api]
 --- 
 
