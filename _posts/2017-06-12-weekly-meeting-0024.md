@@ -5,7 +5,7 @@ description: "Weekly meeting #24"
 date: 2017-06-12 07:30:000
 tags: [Azure Functions, Asp.Net, C#, Carrer, Performance, Logging, Api]
 --- 
-
+ 
 ## Reading
 
 * [Architecting Azure Functions: Function Timeouts and Work Fan-Out with Queues](http://dontcodetired.com/blog/post/Architecting-Azure-Functions-Function-Timeouts-and-Work-Fan-Out-with-Queues) by Jason Roberts
