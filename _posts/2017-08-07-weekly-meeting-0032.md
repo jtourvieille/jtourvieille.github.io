@@ -5,7 +5,7 @@ description: "Weekly meeting #32"
 date: 2017-08-07 07:30:000
 tags: [Asp.Net Core, Identity, AOP, Error handling, Asp.Net Core WebApi, Encryption, VS Code]
 --- 
- 
+
 ## Reading
 
 * [Creating a validator to check for common passwords in ASP.NET Core Identity](https://andrewlock.net/creating-a-validator-to-check-for-common-passwords-in-asp-net-core-identity/) by Andrew Lock

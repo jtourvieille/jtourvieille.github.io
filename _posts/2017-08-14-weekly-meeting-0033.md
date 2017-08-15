@@ -5,7 +5,7 @@ description: "Weekly meeting #33"
 date: 2017-08-14 07:30:000
 tags: [3rd party software, Compression, Brotli, neural network, EF Core, VSTS]
 --- 
- 
+
 ## Reading
 
 * [8 Questions to Ask about 3rd Party Software](http://www.telerik.com/blogs/8-questions-to-ask-about-3rd-party-software) by John Willoughby
