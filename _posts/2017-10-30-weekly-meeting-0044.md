@@ -3,7 +3,7 @@ layout: post
 title: "Weekly meeting #44"
 description: "Weekly meeting #44"
 date: 2017-10-30 07:30:000
-tags: [FeatureToggle, TDD, Mock, ILSpy, IL]
+tags: [FeatureToggle, TDD, Mock, ILSpy, IL, Azure, Entity Framework 2.0]
 --- 
  
 ## Reading
