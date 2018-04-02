@@ -5,7 +5,7 @@ description: "Weekly meeting #63"
 date: 2018-03-12 07:30:000
 tags: [Test, ActorModel, Akka.NET, WebApi, SQL Server, ASP.NET Core]
 --- 
- 
+
 ## Reading
 
 * [The Practical Test Pyramid](https://martinfowler.com/articles/practical-test-pyramid.html) by Ham Vocke

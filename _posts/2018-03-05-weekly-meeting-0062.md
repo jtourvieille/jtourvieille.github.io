@@ -5,7 +5,7 @@ description: "Weekly meeting #62"
 date: 2018-03-05 07:30:000
 tags: [async, C#, Authentication]
 --- 
- 
+
 ## Reading
 
 * [Introducing AsyncUtilities](http://blog.i3arnon.com/2018/02/05/async-utilities/) by Bar Arnon

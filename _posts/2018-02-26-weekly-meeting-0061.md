@@ -5,7 +5,7 @@ description: "Weekly meeting #61"
 date: 2018-02-26 07:30:000
 tags: [C#, MVC Core, ASP.NET Core, WebApi]
 --- 
- 
+
 ## Reading
 
 * [New Free eBook: C# 7.2: What's New Quick Start](http://dontcodetired.com/blog/post/New-Free-eBook-C-72-Whats-New-Quick-Start) by Jason Robert
