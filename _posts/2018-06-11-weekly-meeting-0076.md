@@ -5,7 +5,7 @@ description: "Weekly meeting #76"
 date: 2018-06-11 07:30:000
 tags: [CacheCow, Blazor, Dependency injection, code reviews]
 --- 
-
+ 
 ## Reading
 
 * [CacheCow 2.0 is here - now supporting .NET Standard and ASP.NET Core MVC](http://byterot.blogspot.com/2018/05/cachecow-20-is-here-supporting-netcore-netstandard-aspnetcore-httpclient-aspnetwebapi-etag.html) by Aliostad

@@ -5,7 +5,7 @@ description: "Weekly meeting #75"
 date: 2018-06-04 07:30:000
 tags: [Blazor, Design, windows 10, microservices]
 --- 
-
+ 
 ## Reading
 
 * [WebAssembly with Blazor](https://www.codeproject.com/Articles/1241210/WebAssembly-with-Blazor) by Marcelo Ricardo de Oliveira
